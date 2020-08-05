@@ -1,3 +1,30 @@
+Nautilus | Science Connected 
+
+Title: Wireframes and HTML Mockup - Nautilis
+Type: Lab 
+Duration: "0:45"
+Competencies: React, JSX, Functional Components
+Prerequisites: CSS, HTML, JS
+Difficulty: Intermediate
+
+ 
+
+About the client
+
+Nautilus is an online and print science magazine that "combines the sciences, culture and philosophy into a single story." It publishes one "issue" on a selected topic each month on its website, releasing one "chapter" each Thursday. Issue topics have included human uniqueness, time, uncertainty, genius, mergers & acquisitions, and feedback.  Nautilus also publishes a print edition six times a year, and a daily blog called Facts So Romantic. It makes regular use of original commissioned illustration to accompany its stories. The headquarters are in New York, NY.
+
+ 
+
+Wireframing
+
+Web wireframes are a great way to start your design work. A wireframe is commonly used to lay out content and functionality on a page which takes into account user needs and user journeys. Wireframes can also be used to create the global and secondary navigation to ensure the terminology and structure used for the site meets user expectations. Wireframing is a critical part of the interaction design process. The aim of a wireframe is to provide a visual understanding of a page early in a project to get stakeholder and project team approval before the creative phase gets underway. It suggests the structure of a page, without using any graphics or text. A wireframe  displays site architecture visually and allows for clarification of web site elements. Wireframes are used early in the development process to establish the basic structure of a page before visual design and content are added. It pushes usability to the forefront and identifies ease of updates. Moreover, it helps make the design process iterative and saves time on the entire project.
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
